@@ -1,6 +1,6 @@
 package main
 
-import "search/cmd"
+import "fs/cmd"
 
 func main() {
 	cmd.Execute()
